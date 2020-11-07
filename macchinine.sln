@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "macchinine", "macchinine.csproj", "{E1F8BA60-5268-48B4-9237-48C82E6D5134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F8BA60-5268-48B4-9237-48C82E6D5134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F8BA60-5268-48B4-9237-48C82E6D5134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F8BA60-5268-48B4-9237-48C82E6D5134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F8BA60-5268-48B4-9237-48C82E6D5134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93932AC2-C125-429E-8D4B-FD4CEF425ED9}
+	EndGlobalSection
+EndGlobal
